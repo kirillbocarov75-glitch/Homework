@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Домашка_4.cpp" />
     <ClCompile Include="Домашка_3.cpp" />
     <ClCompile Include="Домашка_2.cpp" />
     <ClCompile Include="Домашка_1.cpp" />
